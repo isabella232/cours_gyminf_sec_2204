@@ -1,0 +1,5 @@
+matplotlib==3.2.1
+Pillow==8.2.0
+pycryptodome==3.9.9
+libnacl==1.7.2
+pyOpenSSL==20.0.1
